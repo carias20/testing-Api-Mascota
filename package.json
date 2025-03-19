@@ -1,0 +1,19 @@
+{
+  "name": "template-testing-api",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "devDependencies": {
+    "ajv": "latest",
+    "aws-sdk": "latest",
+    "aws-sdk-mock": "latest",
+    "cypress": "^14.2.0",
+    "cypress-mochawesome-reporter": "latest",
+    "cypress-xpath": "latest",
+    "dotenv": "latest",
+    "oracledb": "latest"
+  }
+}

@@ -1,0 +1,9 @@
+## ignoramos el archivo de propiedades .env para no subir información sensible
+*.env
+## librerías del proyecto
+node_modules/
+## archivos autogenerados
+.DS_Store
+cypress/videos
+cypress/screenshots
+cypress/reports
